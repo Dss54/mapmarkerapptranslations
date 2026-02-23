@@ -47,7 +47,7 @@ New marker
 ```
 translated (by machine 🤖) as:
 ```
-New маркер
+Нов маркер
 ```
 
 
@@ -97,7 +97,7 @@ Coordinates copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-Координати копиран в клипборда
+Координатите са копирани в клипборда
 ```
 
 
@@ -157,7 +157,7 @@ Failed to create new folder, it already exists
 ```
 translated (by machine 🤖) as:
 ```
-Грешка при създаване на нова папка, той вече съществува
+Грешка при създаване на нова папка, тя вече съществува
 ```
 
 
@@ -167,7 +167,7 @@ Failed to rename the folder, the destination name already exists
 ```
 translated (by machine 🤖) as:
 ```
-Неуспех при преименуване на папката, името на дестинация вече съществува
+Неуспех при преименуване на папката, името вече съществува
 ```
 
 
@@ -177,7 +177,7 @@ Latitude:
 ```
 translated (by machine 🤖) as:
 ```
-Latitude:
+Ширина:
 ```
 
 
@@ -197,7 +197,7 @@ Import markers
 ```
 translated (by machine 🤖) as:
 ```
-Вносните маркери
+Внасяна на маркери
 ```
 
 
@@ -207,7 +207,7 @@ File imported successfully
 ```
 translated (by machine 🤖) as:
 ```
-File внесени успешно
+Файлът е внесен успешно
 ```
 
 
@@ -217,7 +217,7 @@ File import failed
 ```
 translated (by machine 🤖) as:
 ```
-File внос провали
+Внасянето на файла се провали
 ```
 
 
@@ -237,7 +237,7 @@ Location services are disabled. To get your current location you must enable the
 ```
 translated (by machine 🤖) as:
 ```
-Местоположение услуги са с увреждания. За да получите текущото си местоположение, трябва да им се даде възможност.
+Услугите за местоположение са забранени. За да получите текущото си местоположение, трябва да се разрешат.
 ```
 
 
@@ -247,7 +247,7 @@ Could not find address
 ```
 translated (by machine 🤖) as:
 ```
-Не можах да намеря адрес
+Не може да се намери адреса
 ```
 
 
@@ -307,7 +307,7 @@ Save
 ```
 translated (by machine 🤖) as:
 ```
-Save
+Съхранение
 ```
 
 
@@ -327,7 +327,7 @@ Share
 ```
 translated (by machine 🤖) as:
 ```
-Дял
+Споделяне
 ```
 
 
@@ -347,7 +347,7 @@ You have unsaved modifications, do you want to save them?
 ```
 translated (by machine 🤖) as:
 ```
-Имате незапазени промени, искате ли да ги спаси?
+Имате незапазени промени, искате ли да ги съхраните?
 ```
 
 
@@ -368,7 +368,7 @@ Send me an email :-)
 ```
 translated (by machine 🤖) as:
 ```
-Намерени проблем? Имате идея за подобрение? 
+Намерили сте проблем? Имате идея за подобрение? 
  Изпратете ми email :-)
 ```
 
@@ -390,8 +390,8 @@ Rate it 5 stars :-)
 ```
 translated (by machine 🤖) as:
 ```
-Обичаш ап? 
- Оценете 5 звезди :-)
+Харесва ли Ви приложението? 
+ Оценете с 5 звезди :-)
 ```
 
 
@@ -401,7 +401,7 @@ Meters
 ```
 translated (by machine 🤖) as:
 ```
-Meters
+Метри
 ```
 
 
@@ -421,7 +421,7 @@ Feet
 ```
 translated (by machine 🤖) as:
 ```
-Feet
+Футове
 ```
 
 
@@ -431,7 +431,7 @@ Miles
 ```
 translated (by machine 🤖) as:
 ```
-Miles
+Мили
 ```
 
 
@@ -441,7 +441,7 @@ Marker details copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-Подробности Маркер копирани в клипборда
+Подробностите за маркера са копирани в клипборда
 ```
 
 
@@ -461,7 +461,7 @@ Metric (Kilometers/Meters)
 ```
 translated (by machine 🤖) as:
 ```
-Metric (Километри / м)
+Метрична (Километри / м)
 ```
 
 
@@ -491,7 +491,7 @@ Could not find the place
 ```
 translated (by machine 🤖) as:
 ```
-Не можах да намеря мястото
+Не може да се да намери мястото
 ```
 
 
@@ -501,7 +501,7 @@ Could not find another map application
 ```
 translated (by machine 🤖) as:
 ```
-Не можах да намеря друго приложение картата
+Не можах да намеря друго приложение за карта
 ```
 
 
@@ -511,7 +511,7 @@ Move the map around to place your marker where you want and click OK to place it
 ```
 translated (by machine 🤖) as:
 ```
-Преместете картата наоколо, за да поставите маркер, където искате и натиснете OK, за да го поставите
+Преместете картата, за да поставите маркер, където искате и натиснете OK, за да го поставите
 ```
 
 
@@ -521,7 +521,7 @@ Imported marker
 ```
 translated (by machine 🤖) as:
 ```
-Внесените маркер
+Внасяне на маркер
 ```
 
 
@@ -531,7 +531,7 @@ Settings
 ```
 translated (by machine 🤖) as:
 ```
-Settings
+Настройки
 ```
 
 
@@ -541,7 +541,7 @@ Display zoom buttons
 ```
 translated (by machine 🤖) as:
 ```
-Бутони Display мащабиране
+Бутони за мащабиране
 ```
 
 
@@ -561,7 +561,7 @@ Degrees decimal minutes
 ```
 translated (by machine 🤖) as:
 ```
-Десетични градуси минути
+Градуси, десетични минути
 ```
 
 
@@ -571,7 +571,7 @@ Degrees minutes seconds
 ```
 translated (by machine 🤖) as:
 ```
-Градуси минути секунди
+Градуси,минути,секунди
 ```
 
 
@@ -581,7 +581,7 @@ Coordinates format
 ```
 translated (by machine 🤖) as:
 ```
-Координати формат
+Формат на координатите
 ```
 
 
@@ -661,7 +661,7 @@ Coordinates window
 ```
 translated (by machine 🤖) as:
 ```
-Прозорец Координати
+Прозорец за координати
 ```
 
 
@@ -691,7 +691,7 @@ Marker instant adding mode
 ```
 translated (by machine 🤖) as:
 ```
-Marker миг режим добавяне
+Незабавнен режим добавяне на маркер
 ```
 
 
@@ -701,7 +701,7 @@ Advanced
 ```
 translated (by machine 🤖) as:
 ```
-Напреднал
+За напреднали
 ```
 
 
@@ -711,7 +711,7 @@ Display
 ```
 translated (by machine 🤖) as:
 ```
-Показ
+Дисплей
 ```
 
 
@@ -721,7 +721,7 @@ Actions
 ```
 translated (by machine 🤖) as:
 ```
-Мерки
+Действия
 ```
 
 
@@ -751,7 +751,7 @@ Marker %1$d
 ```
 translated (by machine 🤖) as:
 ```
-Marker %1$d
+Маркер %1$d
 ```
 
 
@@ -761,7 +761,7 @@ Waiting for location...
 ```
 translated (by machine 🤖) as:
 ```
-В очакване на населено място...
+В очакване на локация...
 ```
 
 
@@ -771,7 +771,7 @@ Open the help page and see the FAQ
 ```
 translated (by machine 🤖) as:
 ```
-Отворете помощната страница и вижте често задавания въпрос
+Отворете помощната страница и вижте "често задавани въпроси"
 ```
 
 
@@ -781,7 +781,7 @@ Features
 ```
 translated (by machine 🤖) as:
 ```
-Удобства
+Особености
 ```
 
 
@@ -811,7 +811,7 @@ About
 ```
 translated (by machine 🤖) as:
 ```
-Около
+Относно
 ```
 
 
@@ -851,7 +851,7 @@ Thank you for your donation! This donation badge grants you access to premium fe
 ```
 translated (by machine 🤖) as:
 ```
-Благодарим Ви за дарение! Това дарение бадж субсидии ли достъп до премиум :-)
+Благодарим Ви за дарението! Това дарение Ви дава достъп до премиум функции:-)
 ```
 
 
@@ -901,7 +901,7 @@ Premium access available! You currently have access to premium features.
 ```
 translated (by machine 🤖) as:
 ```
-Premium достъп на разположение! В момента имате достъп до първокласни функции.
+Premium достъп е на разположение! В момента иматее достъп до първокласни функции.
 ```
 
 
@@ -921,7 +921,7 @@ Cloud sync
 ```
 translated (by machine 🤖) as:
 ```
-Cloud синхронизиране
+Облачно синхронизиране
 ```
 
 
@@ -931,7 +931,7 @@ Sync this map file on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-Синхронизиране на тази карта файл на облака
+Синхронизиране на този файл на облака
 ```
 
 
@@ -951,7 +951,7 @@ Create a new map file locally
 ```
 translated (by machine 🤖) as:
 ```
-Създаване на нова карта файл локално
+Създаване на нова карта локално
 ```
 
 
@@ -961,7 +961,7 @@ Create cloud map
 ```
 translated (by machine 🤖) as:
 ```
-Създайте облак картата
+Създайте на облачна картата
 ```
 
 
@@ -971,7 +971,7 @@ Create a map file on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-Създаване на карта на файлове на облака
+Създаване на файлове на картата в облака
 ```
 
 
@@ -981,7 +981,7 @@ Rename
 ```
 translated (by machine 🤖) as:
 ```
-Преименувам
+Преименуване
 ```
 
 
@@ -991,7 +991,7 @@ Rename the map
 ```
 translated (by machine 🤖) as:
 ```
-Преименуване на карта
+Преименуване на картата
 ```
 
 
@@ -1001,7 +1001,7 @@ Enter the new map's name
 ```
 translated (by machine 🤖) as:
 ```
-Въведете новото име на картата на
+Въведете новото име на картата
 ```
 
 
@@ -1011,7 +1011,7 @@ Could not create folder: name empty
 ```
 translated (by machine 🤖) as:
 ```
-Не може да се създаде папка: назове празна
+Не може да се създаде папка: името е празно
 ```
 
 
@@ -1021,7 +1021,7 @@ Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
 translated (by machine 🤖) as:
 ```
-Благодарим ви за закупуването Map Marker ъпгрейд :-)
+Благодарим Ви за закупуването на Map Marker премиум ъпгрейд :-)
 ```
 
 
@@ -1031,7 +1031,7 @@ Premium
 ```
 translated (by machine 🤖) as:
 ```
-Premium
+Премиум
 ```
 
 
@@ -1041,7 +1041,7 @@ Upgrade to premium and take full advantage of Map Marker features!
 ```
 translated (by machine 🤖) as:
 ```
-Ъпгрейд премия и се възползват напълно Map Marker функции!
+Преминете към премиум и се възползвайте напълно Map Marker функциите!
 ```
 
 
@@ -1051,7 +1051,7 @@ Sorry, you need the premium upgrade to access this feature. Upgrade to premium a
 ```
 translated (by machine 🤖) as:
 ```
-За съжаление, трябва ъпгрейд премия за достъп до тази функция. Ъпгрейд премия и се възползват напълно Map Marker функции!
+За съжаление, трябва премиум ъпгрейд за достъп до тази функция. Преминете към премиум и се възползвайте напълно от Map Marker функциите!
 ```
 
 
@@ -1081,7 +1081,7 @@ Test internet
 ```
 translated (by machine 🤖) as:
 ```
-Тест интернет
+Тест на Интернет
 ```
 
 
@@ -1091,7 +1091,7 @@ Checks that the app has access to internet
 ```
 translated (by machine 🤖) as:
 ```
-Проверява, че приложението има достъп до интернет
+Проверете дали приложението има достъп до Интернет
 ```
 
 
@@ -1101,7 +1101,7 @@ GP Services (app)
 ```
 translated (by machine 🤖) as:
 ```
-GP Services (ап)
+GP Services (app)
 ```
 
 
@@ -1111,7 +1111,7 @@ Open the details of the currently installed Google Play Services app
 ```
 translated (by machine 🤖) as:
 ```
-Отворете подробностите на инсталираните в Google Play Services ап
+Отворете подробностите на инсталираните в Google Play Services app
 ```
 
 
@@ -1131,7 +1131,7 @@ Google Play (app)
 ```
 translated (by machine 🤖) as:
 ```
-Google Play (ап)
+Google Play (app)
 ```
 
 
@@ -1141,7 +1141,7 @@ Contact support
 ```
 translated (by machine 🤖) as:
 ```
-Свържи се с подкрепата
+Свържи се с поддръжката
 ```
 
 
@@ -1151,7 +1151,7 @@ Write an email to support with the details of your problem
 ```
 translated (by machine 🤖) as:
 ```
-email да подкрепят с подробностите на вашия проблем
+Напишете email за да ни подкрепите с подробностите на вашия проблем
 ```
 
 
@@ -1161,7 +1161,7 @@ Network test succeeded
 ```
 translated (by machine 🤖) as:
 ```
-Тест Network успели
+Успешен Network тест
 ```
 
 
@@ -1171,7 +1171,7 @@ Network test failed
 ```
 translated (by machine 🤖) as:
 ```
-Тест Network провали
+Network теста е неуспешен 
 ```
 
 
@@ -1181,7 +1181,7 @@ Share cloud map
 ```
 translated (by machine 🤖) as:
 ```
-Сподели облак картата
+Сподели облачна карта
 ```
 
 
@@ -1191,7 +1191,7 @@ Open the cloud map folder to view its properties and share it with other people
 ```
 translated (by machine 🤖) as:
 ```
-Отворете папката облак картата за да видите свойствата му и да го споделите с други хора
+Отворете папката с картата в облака за да видите свойствата му и да го споделите с други хора
 ```
 
 
@@ -1201,7 +1201,7 @@ View history/Restore
 ```
 translated (by machine 🤖) as:
 ```
-Преглед на историята / Restore
+Преглед на историята / Възстановяване 
 ```
 
 
@@ -1211,7 +1211,7 @@ View history of modifications to the cloud folder and select a version to restor
 ```
 translated (by machine 🤖) as:
 ```
-Преглед на историята на изменения в папката на облак и изберете версията, за да възстановите
+Преглед на историята на изменения в папката в облака и изберете версията, за да възстановите
 ```
 
 
@@ -1221,7 +1221,7 @@ Create map file
 ```
 translated (by machine 🤖) as:
 ```
-Създаване на карта на файла
+Създаване на файл с карта
 ```
 
 
@@ -1231,7 +1231,7 @@ Create a new map file locally or on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-Създаване на нова карта файл локално или на облака
+Създаване на нов файл на картата локално или на облака
 ```
 
 
@@ -1241,7 +1241,7 @@ Open cloud map
 ```
 translated (by machine 🤖) as:
 ```
-Open облак картата
+Open карта от облака
 ```
 
 
@@ -1261,7 +1261,7 @@ Map Marker needs the permission to access your location in order to display it o
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker се нуждае от разрешение за достъп до вашето местоположение, за да го покажете на картата
+Map Marker се нуждае от разрешение за достъп до Вашето местоположение, за да го покаже на картата
 ```
 
 
@@ -1281,7 +1281,7 @@ No map folder found on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-Не папка карта намерена на облака
+Не е намерена папка с карта на облака
 ```
 
 
@@ -1301,7 +1301,7 @@ Choose a version to restore to
 ```
 translated (by machine 🤖) as:
 ```
-Изберете версия, за да възстановите
+Изберете версия, за възстановяване
 ```
 
 
@@ -1311,7 +1311,7 @@ A sync error occurred. Please try again.
 ```
 translated (by machine 🤖) as:
 ```
-Възникна грешка при синхронизиране. Моля, опитайте отново.
+Възникна грешка при синхронизирането. Моля, опитайте отново.
 ```
 
 
@@ -1331,7 +1331,7 @@ A sync error occurred: conflict, another device was performing the sync at the s
 ```
 translated (by machine 🤖) as:
 ```
-Възникна грешка при синхронизиране: конфликт, друго устройство е извършване на синхронизация в същото време. Моля, опитайте отново.
+Възникна грешка при синхронизиране: конфликт, друго устройство извършва синхронизация в същото време. Моля, опитайте отново.
 ```
 
 
@@ -1351,7 +1351,7 @@ Map Marker needs the permission to make calls on your device
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker се нуждае от разрешение за осъществяване на повиквания на устройството си
+Map Marker се нуждае от разрешение за осъществяване на повиквания на устройството Ви
 ```
 
 
@@ -1371,7 +1371,7 @@ Open the marker location in this app
 ```
 translated (by machine 🤖) as:
 ```
-Отворете местоположението на маркер в това приложение
+Отворете местоположението на маркера в това приложение
 ```
 
 
@@ -1391,7 +1391,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-%1$d маркери %2$d папки
+%1$d маркери в %2$d папки
 ```
 
 
@@ -1401,7 +1401,7 @@ A sync error occurred: the cloud data has been updated with a more recent versio
 ```
 translated (by machine 🤖) as:
 ```
-Възникна грешка при синхронизиране: данните в облака е актуализиран с по-нова версия на приложението. Трябва да Map Marker на това устройство, за да синхронизирате.
+Възникна грешка при синхронизиране: данните в облака са актуализирани с по-нова версия на приложението. Трябва да актуализирате Map Marker на това устройство, за да синхронизирате.
 ```
 
 
@@ -1411,7 +1411,7 @@ Call phone number
 ```
 translated (by machine 🤖) as:
 ```
-Call телефонен номер
+Набиране на телефонен номер
 ```
 
 
@@ -1421,7 +1421,7 @@ Dial phone number
 ```
 translated (by machine 🤖) as:
 ```
-Наберете телефонен номер
+Наберане на телефонен номер
 ```
 
 
@@ -1431,7 +1431,7 @@ Text phone number
 ```
 translated (by machine 🤖) as:
 ```
-Текст, телефонен номер
+Напишете телефонен номер
 ```
 
 
@@ -1441,7 +1441,7 @@ Default navigation action
 ```
 translated (by machine 🤖) as:
 ```
-Default навигация действие
+Действие по подразбиране за навигация
 ```
 
 
@@ -1451,7 +1451,7 @@ Ask
 ```
 translated (by machine 🤖) as:
 ```
-Попитам
+Попитай
 ```
 
 
@@ -1461,7 +1461,7 @@ What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-Какво е ъпгрейд премия?
+Какво е премиум ъпгрейд?
 ```
 
 
@@ -1481,7 +1481,7 @@ Browse
 ```
 translated (by machine 🤖) as:
 ```
-паса
+Преглед
 ```
 
 
@@ -1491,7 +1491,7 @@ Organize
 ```
 translated (by machine 🤖) as:
 ```
-организирам
+Организирай
 ```
 
 
@@ -1501,7 +1501,7 @@ Search failed
 ```
 translated (by machine 🤖) as:
 ```
-неуспешно търсене
+Неуспешно търсене
 ```
 
 
@@ -1511,7 +1511,7 @@ Search failed, network error
 ```
 translated (by machine 🤖) as:
 ```
-Търсене провали, мрежова грешка
+Търсенето се провали, мрежова грешка
 ```
 
 
@@ -1521,7 +1521,7 @@ Details
 ```
 translated (by machine 🤖) as:
 ```
-детайли
+Детайли
 ```
 
 
@@ -1531,7 +1531,7 @@ Sync error
 ```
 translated (by machine 🤖) as:
 ```
-грешка при синхронизирането
+Грешка при синхронизирането
 ```
 
 
@@ -1541,7 +1541,7 @@ The file already exists, do you want to overwrite it?
 ```
 translated (by machine 🤖) as:
 ```
-Файлът вече съществува, искаш да бъде презаписан?
+Файлът вече съществува, искате ли да го презапишете?
 ```
 
 
@@ -1551,7 +1551,7 @@ You will see the list of your markers here. You currently have no markers in the
 ```
 translated (by machine 🤖) as:
 ```
-Вие ще видите списък на вашите маркери тук. Понастоящем нямате маркери в избраната папка (и). Можете да добавите нов маркер, като кликнете върху бутона по-долу.
+Вие ще видите списък на вашите маркери тук. Понастоящем нямате маркери в избраната папка(и). Можете да добавите нов маркер, като кликнете върху бутона по-долу.
 ```
 
 
@@ -1601,7 +1601,7 @@ Click here to open the web page explaining how to obtain those maps.
 ```
 translated (by machine 🤖) as:
 ```
-Кликнете тук, за да отворите уеб страницата се обяснява как да се получи тези карти.
+Кликнете тук, за да отворите уеб страницата. Има обяснение как да се получат тези карти.
 ```
 
 
@@ -1621,7 +1621,7 @@ Copyright and legal mentions
 ```
 translated (by machine 🤖) as:
 ```
-Авторско право и правна споменава
+Авторско право и правна информация 
 ```
 
 
@@ -1633,7 +1633,7 @@ Legal mentions for other map data than Google Maps:
 ```
 translated (by machine 🤖) as:
 ```
-Правна споменава за други картографски данни, отколкото Google Maps : 
+Правна информация за други картографски данни, освен Google Maps : 
  
  %s
 ```
@@ -1655,7 +1655,8 @@ Map files
 ```
 translated (by machine 🤖) as:
 ```
-Карта файлове
+
+Файлове с карти
 ```
 
 
@@ -1665,7 +1666,7 @@ Delete map file
 ```
 translated (by machine 🤖) as:
 ```
-Изтриване на карта файл
+Изтриване на файл с карта
 ```
 
 
@@ -1675,7 +1676,7 @@ This action will delete the map file from this device
 ```
 translated (by machine 🤖) as:
 ```
-Това действие ще изтрие файла карта от това устройство
+Това действие ще изтрие файла с картата от това устройство
 ```
 
 
@@ -1685,7 +1686,7 @@ This action will delete the map file from your device forever. All the markers i
 ```
 translated (by machine 🤖) as:
 ```
-Това действие ще изтрие файла на картата от устройството си завинаги. Всички маркерите вътре този файл ще бъдат загубени. Сигурен ли си?
+Това действие ще изтрие файла на картата от устройството Ви завинаги. Всички маркерите вътре в този файл ще бъдат загубени. Сигурни ли сте?
 ```
 
 
@@ -1695,7 +1696,7 @@ This action will delete the map file from your device forever. All changes not y
 ```
 translated (by machine 🤖) as:
 ```
-Това действие ще изтрие файла на картата от устройството си завинаги. Всички промени, които все още не синхронизирани с облака, ще бъдат загубени. Папката облак няма да бъде засегната от това действие и ще трябва да го изтриете ръчно. Сигурен ли си?
+Това действие ще изтрие файла на картата от устройството Ви завинаги. Всички промени, които все още не синхронизирани с облака, ще бъдат загубени. Папката в облака няма да бъде засегната от това действие и ще трябва да я изтриете ръчно. Сигурни ли сте?
 ```
 
 
@@ -1705,7 +1706,7 @@ Marker saved in a non visible folder
 ```
 translated (by machine 🤖) as:
 ```
-Marker записан в не вижда папка
+Маркерът е записан в невиждима папка
 ```
 
 
@@ -1715,7 +1716,7 @@ Your changes have not been synced recently. Make sure you keep your cloud copy u
 ```
 translated (by machine 🤖) as:
 ```
-Вашите промени не са синхронизирани наскоро. Уверете се, че сте си облак копирате актуална. Искате ли да се синхронизира сега?
+Вашите промени не са синхронизирани наскоро. Уверете се, че копието в облака е актуално. Искате ли да се синхронизира сега?
 ```
 
 
@@ -1725,7 +1726,8 @@ The markers of this map file are currently only saved on this device. It is reco
 ```
 translated (by machine 🤖) as:
 ```
-Маркерите на тази карта файл в момента се съхраняват само на това устройство. Препоръчително е да се спаси маркери си на облака, за да се избегне да ги губи. Искате ли да ги спаси към облака сега?
+Маркерите на тази карта в момента се съхраняват само на това устройство. Препоръчително е  маркерите да се запишат в
+ облака, за да се избегне загуба. Искате ли да ги съхраним в облака сега?
 ```
 
 
@@ -1735,7 +1737,7 @@ Do you want to sync this map file? With manual you will need to sync manually ev
 ```
 translated (by machine 🤖) as:
 ```
-Искате ли да се синхронизира тази карта файл? С ръчно ще трябва да синхронизирате ръчно всеки път. С автоматична (препоръчително) ще изберете папка дестинация облак и синхронизиране на облака ще се стартира автоматично всеки път, приложението влиза фон.
+Искате ли да се синхронизира този файл с карта? Ще трябва да синхронизирате ръчно всеки път. С автоматична синхронизация (препоръчително) ще изберете папка дестинация облак и синхронизирането на облака ще се стартира автоматично всеки път, когато приложението влиза във фон.
 ```
 
 
@@ -1745,7 +1747,7 @@ Automatic
 ```
 translated (by machine 🤖) as:
 ```
-автоматичен
+Автоматично
 ```
 
 
@@ -1755,7 +1757,7 @@ Manual
 ```
 translated (by machine 🤖) as:
 ```
-наръчник
+Ръчно
 ```
 
 
@@ -1765,7 +1767,7 @@ Move the map around to place the points, click '+' to add a point, click '-' to 
 ```
 translated (by machine 🤖) as:
 ```
-Преместете картата наоколо, за да поставите точките, кликнете върху "+", за да добавите точка, кликнете върху "-", за да премахнете точка и точките на превключване с предишна / следваща бутони. Накрая кликнете спаси, за да запазите формата.
+Преместете картата, за да поставите точките, кликнете върху "+", за да добавите точка, кликнете върху "-", за да премахнете точка и точките на превключване с бутони предишен/следващ. Накрая кликнете "съхрани", за да запазите формата.
 ```
 
 
@@ -1775,7 +1777,7 @@ There are not enough points to create the shape. Create more points and try agai
 ```
 translated (by machine 🤖) as:
 ```
-Няма достатъчно точки, за да се създаде форма. Създаване на повече точки и да опитате отново.
+Няма достатъчно точки, за да се създаде форма. Създайте повече точки и опитайте отново.
 ```
 
 
@@ -1796,7 +1798,7 @@ Area: %2$s
 ```
 translated (by machine 🤖) as:
 ```
-Периметрова: %1$s 
+Периметър: %1$s 
  Площ: %2$s
 ```
 
@@ -1817,7 +1819,7 @@ Insert…
 ```
 translated (by machine 🤖) as:
 ```
-Поставете...
+Вмъкване...
 ```
 
 
@@ -1837,7 +1839,7 @@ Replace description
 ```
 translated (by machine 🤖) as:
 ```
-Сменете описание
+Сменете описанието
 ```
 
 
@@ -1867,7 +1869,7 @@ Metric (%s)
 ```
 translated (by machine 🤖) as:
 ```
-Metric ( %s )
+Метрична ( %s )
 ```
 
 
@@ -2017,7 +2019,7 @@ Disabled
 ```
 translated (by machine 🤖) as:
 ```
-хора с увреждания
+Забранено
 ```
 
 
@@ -2037,7 +2039,7 @@ Unlimited
 ```
 translated (by machine 🤖) as:
 ```
-неограничен
+Неограничен
 ```
 
 
@@ -2087,7 +2089,7 @@ Importing image…
 ```
 translated (by machine 🤖) as:
 ```
-изображение Внос...
+Вмъкване на изображение...
 ```
 
 
@@ -2107,7 +2109,7 @@ Export failed
 ```
 translated (by machine 🤖) as:
 ```
-Export провали
+Неуспешно експортиране
 ```
 
 
@@ -2117,7 +2119,7 @@ Export succeeded
 ```
 translated (by machine 🤖) as:
 ```
-Export успели
+Успешно експортиране
 ```
 
 
@@ -2147,7 +2149,7 @@ Importing file…
 ```
 translated (by machine 🤖) as:
 ```
-файл Внос...
+Вмъкване на файл...
 ```
 
 
@@ -2197,7 +2199,7 @@ Land activities
 ```
 translated (by machine 🤖) as:
 ```
-Парцели дейности
+Дейност по парцели
 ```
 
 
@@ -2207,7 +2209,7 @@ Water activies
 ```
 translated (by machine 🤖) as:
 ```
-Водни активността си
+Водни активности
 ```
 
 
@@ -2217,7 +2219,7 @@ Winter activies
 ```
 translated (by machine 🤖) as:
 ```
-Зимните активността си
+Зимни активности
 ```
 
 
@@ -2227,7 +2229,7 @@ Transport
 ```
 translated (by machine 🤖) as:
 ```
-транспорт
+Транспорт
 ```
 
 
@@ -2247,7 +2249,7 @@ Entertainment
 ```
 translated (by machine 🤖) as:
 ```
-забавление
+Забавление
 ```
 
 
@@ -2277,7 +2279,7 @@ Government
 ```
 translated (by machine 🤖) as:
 ```
-правителство
+Правителство
 ```
 
 
@@ -2287,7 +2289,7 @@ Religious
 ```
 translated (by machine 🤖) as:
 ```
-религиозен
+Религия
 ```
 
 
@@ -2327,7 +2329,7 @@ Generic
 ```
 translated (by machine 🤖) as:
 ```
-родов
+Първичен
 ```
 
 
@@ -2337,7 +2339,7 @@ Beta tester badge: thank you for being a beta tester! This badge will disappear 
 ```
 translated (by machine 🤖) as:
 ```
-Бета тестер значка: Благодаря ви за това, че бета тестер! Тази значка ще изчезне само след деинсталирането на приложението или клирингова данни на приложението. Тази значка също ви позволява да имате без реклами в приложението.
+Значка за бета тестер: Благодарим ти, че си бета тестер! Тази значка ще изчезне само ако деинсталираш приложението или изтриеш данните му. Тази значка също така ти позволява да ползваш приложението без реклами.
 ```
 
 
@@ -2357,7 +2359,7 @@ You understand English and want to help with translations? Click here
 ```
 translated (by machine 🤖) as:
 ```
-Вие разбирате английски и искат да помогнат с преводи? Натисни тук
+Вие разбирате английски и искате да помогнате с превод? Натиснете тук
 ```
 
 
@@ -2367,7 +2369,7 @@ The destination folder's color or icon is different. Do you want to update the m
 ```
 translated (by machine 🤖) as:
 ```
-цвят или икона на папката местоназначение е различна. Искате ли да се актуализира цвят маркер и иконата?
+Цветът или иконата на папката местоназначение е различна. Искате ли да се актуализира цвета на маркера и иконата?
 ```
 
 
@@ -2397,7 +2399,7 @@ Selection action
 ```
 translated (by machine 🤖) as:
 ```
-действие Selection
+Избиране на действие
 ```
 
 
@@ -2417,7 +2419,7 @@ Move to right
 ```
 translated (by machine 🤖) as:
 ```
-Преместване в полето
+Преместване в дясно
 ```
 
 
@@ -2447,7 +2449,7 @@ Delete image
 ```
 translated (by machine 🤖) as:
 ```
-Изтриване на изображения
+Изтриване на изображението
 ```
 
 
@@ -2457,7 +2459,7 @@ From local file
 ```
 translated (by machine 🤖) as:
 ```
-От местната файл
+От локалния файл
 ```
 
 
@@ -2467,7 +2469,7 @@ What format to you want to use to export?
 ```
 translated (by machine 🤖) as:
 ```
-В какъв формат да искате да използвате, за да изнасяме?
+Какъв формат искате да използвате за експорт?
 ```
 
 
@@ -2487,13 +2489,13 @@ Standard Google Earth format. Cannot contain media.
 ```
 translated (by machine 🤖) as:
 ```
-Standard Google Earth формат. Не може да съдържа медии.
+Стандартен Google Earth формат. Не може да съдържа медии.
 ```
 
 
 ## Translation Key: export_choice_kmz_details
 ```
-Google Earth zipped format. Can contain media.
+Google Earth zipped format. Може да съдържа медии.
 ```
 translated (by machine 🤖) as:
 ```
@@ -2507,7 +2509,7 @@ Standard text spreadsheet format. Cannot contain media. Cannot contain lines or 
 ```
 translated (by machine 🤖) as:
 ```
-формат Standard текст таблица. Не може да съдържа медии. Не може да съдържа линии или полигони.
+Стандартен формат за текст на таблица. Не може да съдържа медии. Не може да съдържа линии или полигони.
 ```
 
 
@@ -2517,7 +2519,7 @@ Marker as plain text
 ```
 translated (by machine 🤖) as:
 ```
-Marker като обикновен текст
+Маркер като обикновен текст
 ```
 
 
@@ -2527,7 +2529,7 @@ Marker as file
 ```
 translated (by machine 🤖) as:
 ```
-Marker като файл
+Маркер като файл
 ```
 
 
@@ -2617,7 +2619,7 @@ Field info
 ```
 translated (by machine 🤖) as:
 ```
-Полева информация
+Информация за полето
 ```
 
 
@@ -2667,7 +2669,7 @@ Email
 ```
 translated (by machine 🤖) as:
 ```
-електронна поща
+Електронна поща
 ```
 
 
@@ -2707,7 +2709,7 @@ Phone
 ```
 translated (by machine 🤖) as:
 ```
-телефон
+Телефон
 ```
 
 
@@ -2717,7 +2719,7 @@ Web link
 ```
 translated (by machine 🤖) as:
 ```
-уеб линк
+Web линк
 ```
 
 
@@ -2857,7 +2859,7 @@ More options…
 ```
 translated (by machine 🤖) as:
 ```
-Повече опций…
+Повече опции…
 ```
 
 
@@ -2887,7 +2889,7 @@ Copy
 ```
 translated (by machine 🤖) as:
 ```
-копие
+Копие
 ```
 
 
@@ -2973,7 +2975,7 @@ translated (by machine 🤖) as:
 ```
 Специални благодарности на хората, които работиха усилено, за да помогнат с преводите на приложенията:
 %s
-… А също и тези, които отказаха да споменат
+… А също и на тези, които отказаха да бъдат споменати
 
 Също така, благодаря на всички потребители, които ми дадоха обратна информация през годините и непрекъснато ми помагаха да направя приложението по-добро.
 ```
@@ -2985,7 +2987,7 @@ Create marker
 ```
 translated (by machine 🤖) as:
 ```
-Създайте маркер
+Създаване на маркер
 ```
 
 
@@ -3005,7 +3007,7 @@ Log in
 ```
 translated (by machine 🤖) as:
 ```
-Влизам
+Влизане
 ```
 
 
@@ -3125,7 +3127,7 @@ Wondering how to configure search sources? Click here.
 ```
 translated (by machine 🤖) as:
 ```
-Чудите се как да конфигурирате източниците на търсене? Натисни тук.
+Чудите се как да конфигурирате източниците на търсене? Натиснете тук.
 ```
 
 
@@ -3215,7 +3217,7 @@ Tutorial
 ```
 translated (by machine 🤖) as:
 ```
-настойнически
+Наръчник
 ```
 
 
@@ -3235,7 +3237,7 @@ translated (by machine 🤖) as:
 
 Ако използвате много търсене, силно се препоръчва да конфигурирате източник за търсене на трета страна, за да се възползвате от по-добри резултати от търсенето.
 
-Тя трябва да отнеме само малко от времето си и ще ви позволи да се възползвате от много по-добри резултати от търсенето безплатно.
+Това ще отнеме само малко от времето Ви и ще Ви позволи да се възползвате от много по-добри резултати от търсенето безплатно.
 
 Кликнете върху бутона „Промяна на източника“ и след това върху опцията „Инструкция“, за да научите повече.
 ```
@@ -3247,7 +3249,7 @@ Integrated Android Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrated Android Street Addresses Finder
+Вградена Android Street Addresses Finder
 ```
 
 
@@ -3267,7 +3269,7 @@ Integrated iOS Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrated iOS Street Addresses Finder
+Вградена iOS Street Addresses Finder
 ```
 
 
@@ -3297,7 +3299,7 @@ Delete folder only
 ```
 translated (by machine 🤖) as:
 ```
-Изтриване само на папка
+Изтриване само на папката
 ```
 
 
@@ -3307,7 +3309,7 @@ Delete folder + sub-folders
 ```
 translated (by machine 🤖) as:
 ```
-Изтриване на папка + подпапки
+Изтриване на папката + подпапките
 ```
 
 
@@ -3337,7 +3339,7 @@ Create sub-folder
 ```
 translated (by machine 🤖) as:
 ```
-Създайте подпапка
+Създаване на подпапка
 ```
 
 
@@ -3403,7 +3405,7 @@ translated (by machine 🤖) as:
 ```
 В момента няма конфигуриран източник на търсене. За да можете да търсите, трябва да конфигурирате източник за търсене на трета страна.
 
-Трябва да отнеме само малко от вашето време и ще ви позволи безплатен достъп до резултатите от търсенето.
+Това ще отнеме само малко от Вашето време и ще ви позволи безплатен достъп до резултатите от търсенето.
 
 Щракнете върху бутона "Промяна на източника" и след това върху опцията "Урок", за да научите повече.
 ```
@@ -3477,7 +3479,7 @@ Add offline map file
 ```
 translated (by machine 🤖) as:
 ```
-Добавете файл офлайн карта
+Добавете файл-карта офлайн
 ```
 
 
@@ -3487,7 +3489,7 @@ Offline map file import succeeded
 ```
 translated (by machine 🤖) as:
 ```
-Импортирането на файл офлайн карта е успешно
+Импортирането на файл-карта офлайн е успешно
 ```
 
 
@@ -3559,7 +3561,7 @@ Base map pin size
 ```
 translated (by machine 🤖) as:
 ```
-Размер на щифта за основна карта
+Размер на щифта за основната карта
 ```
 
 
@@ -3569,7 +3571,7 @@ Tiny
 ```
 translated (by machine 🤖) as:
 ```
-Мъничък
+Много малък
 ```
 
 
@@ -3589,7 +3591,7 @@ Normal
 ```
 translated (by machine 🤖) as:
 ```
-Нормално
+Нормален
 ```
 
 
@@ -3609,7 +3611,7 @@ Huge
 ```
 translated (by machine 🤖) as:
 ```
-огромен
+Много голям
 ```
 
 
@@ -3905,7 +3907,7 @@ The sync was aborted because the following file could you be found: %s. To resol
 ```
 translated (by machine 🤖) as:
 ```
-Синхронизирането беше прекъснато, защото може да бъде намерен следният файл: %s. За да разрешите това, можете или да възстановите липсващия файл ръчно, или да промените настройките на приложението, така че да не изтегля мултимедия по време на синхронизиране.
+Синхронизирането беше прекъснато, защото не може да бъде намерен следният файл: %s. За да разрешите това, можете или да възстановите липсващия файл ръчно, или да промените настройките на приложението, така че да не изтегля мултимедия по време на синхронизиране.
 ```
 
 
@@ -4185,7 +4187,7 @@ See more
 ```
 translated (by machine 🤖) as:
 ```
-Виж повече
+Вижте повече
 ```
 
 
@@ -4589,7 +4591,7 @@ Do you enjoy the app?
 ```
 translated (by machine 🤖) as:
 ```
-Обичате ли приложението?
+Харесвате ли приложението?
 ```
 
 
@@ -4609,7 +4611,7 @@ If you like my app you can reward me by taking the time to give a good rating :-
 ```
 translated (by machine 🤖) as:
 ```
-Ако ви харесва моята ап можете да ме възнагради с отделихте време да се даде добър рейтинг :-)
+Ако ви харесва моето приложение можете да ме възнаградите като отделите време да ми дадете добър рейтинг :-)
 ```
 
 
@@ -4619,7 +4621,7 @@ Yes, take me to the app page
 ```
 translated (by machine 🤖) as:
 ```
-Да, отведе ме до страницата на приложението
+Да, отведи ме до страницата на приложението
 ```
 
 
@@ -4759,7 +4761,7 @@ Starting new track recording
 ```
 translated (by machine 🤖) as:
 ```
-Стартиране на нов запис на песен
+Стартиране на нов запис на трак
 ```
 
 
@@ -4769,7 +4771,7 @@ Ongoing track recording
 ```
 translated (by machine 🤖) as:
 ```
-Текущ запис на песен
+Текущ запис на трак
 ```
 
 
@@ -4789,7 +4791,7 @@ Track %s
 ```
 translated (by machine 🤖) as:
 ```
-Песен %s
+Track %s
 ```
 
 
@@ -4809,7 +4811,7 @@ If you want to grant this permission, go to this application's permissions setti
 ```
 translated (by machine 🤖) as:
 ```
-Ако искате да предоставите това разрешение, отидете в настройките за разрешения на това приложение под вашите системни настройки.
+Ако искате да предоставите това разрешение, отидете в настройките за разрешения на това приложение под Вашите системни настройки.
 ```
 
 
@@ -4829,7 +4831,7 @@ The app will need to display a notification in order to remain active in the bac
 ```
 translated (by machine 🤖) as:
 ```
-Приложението ще трябва да покаже известие, за да остане активно във фонов режим, докато записва песен.
+Приложението ще трябва да покаже известие, за да остане активно във фонов режим, докато записва трак.
 ```
 
 
@@ -4839,7 +4841,7 @@ The track(s) recording (%s) was interrupted before it could be saved. Do you wan
 ```
 translated (by machine 🤖) as:
 ```
-Записването на песента(ите) (%s) беше прекъснато, преди да може да бъде запазено. Искате ли да го запазите сега?
+Записването на трак(овете) (%s) беше прекъснато, преди да може да бъде запазено. Искате ли да го запазите сега?
 ```
 
 
@@ -4849,7 +4851,7 @@ Do you want to delete the unsaved track(s) recording forever?
 ```
 translated (by machine 🤖) as:
 ```
-Искате ли да изтриете завинаги записа на незаписаните песни?
+Искате ли да изтриете завинаги записа на незаписаните тракове?
 ```
 
 
@@ -4859,7 +4861,7 @@ This track had no points recorded and has simply been discarded.
 ```
 translated (by machine 🤖) as:
 ```
-Тази песен нямаше записани точки и просто беше изхвърлена.
+Този трак нямаше записани точки и просто беше изхвърлен.
 ```
 
 
@@ -4904,9 +4906,9 @@ You can find more general information about privacy in the privacy policy availa
 ```
 translated (by machine 🤖) as:
 ```
-Това приложение събира данни за местоположение, за да активира функцията за „запис на следи“, дори когато приложението е затворено или не се използва.
+Това приложение събира данни за местоположението, за да активира функцията за „запис на следи (тракове)“, дори когато приложението е затворено или не се използва.
 
-Това събиране на данни за местоположение се използва изключително за запис на следи във вашите маркери и се случва само когато изрично сте инициирали запис на следа.
+Това събиране на данни за местоположение се използва изключително за запис на следи (тракове) във вашите маркери и се случва само когато изрично сте инициирали запис на следа.
 
 Можете да намерите повече обща информация относно поверителността в политиката за поверителност, достъпна на следната връзка:
 %s
@@ -4919,7 +4921,7 @@ Switch points with the previous/next buttons, move the map around to place the p
 ```
 translated (by machine 🤖) as:
 ```
-Превключете точките с бутоните за предишен/следващ, преместете картата наоколо, за да поставите точките и щракнете върху „-“, за да премахнете точка. Накрая щракнете върху запазване, за да запазите редактираната песен.
+Превключете точките с бутоните за предишен/следващ, преместете картата, за да поставите точките и щракнете върху „-“, за да премахнете точка. Накрая щракнете върху запазване, за да запазите редактирания трак.
 ```
 
 
@@ -4989,7 +4991,7 @@ Track details
 ```
 translated (by machine 🤖) as:
 ```
-Подробности за песента
+Подробности за трака (следата)
 ```
 
 
